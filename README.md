@@ -1,1 +1,1 @@
-# DogSlideshow
+My name is Leland Engel and this is my Dog slide show website. I do not take credit for this code, as it was given to me from a video by Brad Schiff. This website is compiled in HTML, java, and CSS. It was compiled on github and VsCode and published to Microsft Azure.
